@@ -1,0 +1,12 @@
+echo "# Python
+__pycache__/
+*.pyc
+instance/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment
+.env" > .gitignore
